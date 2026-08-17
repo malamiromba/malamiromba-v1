@@ -1,0 +1,16 @@
+{
+   "redirects": [
+      {
+         "source": "/:path*",
+         "destination": "https://techinhausa.org/:path*",
+         "permanent": true,
+         "hostname": "malamiromba.com"
+      },
+      {
+         "source": "/:path*",
+         "destination": "https://techinhausa.org/:path*",
+         "permanent": true,
+         "hostname": "www.malamiromba.com"
+      }
+   ]
+}
